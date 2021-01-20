@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bronzetti.christian.4h.EsData", "bronzetti.christian.4h.EsData\bronzetti.christian.4h.EsData.csproj", "{36096407-F471-4E8C-8FF6-5EE7CC0A3849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36096407-F471-4E8C-8FF6-5EE7CC0A3849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36096407-F471-4E8C-8FF6-5EE7CC0A3849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36096407-F471-4E8C-8FF6-5EE7CC0A3849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36096407-F471-4E8C-8FF6-5EE7CC0A3849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA26863-1485-4CE3-BA01-3E70FA5EC0E8}
+	EndGlobalSection
+EndGlobal
